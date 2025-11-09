@@ -35,3 +35,4 @@ Portfolio: [Live Demo Link]
 This project is open source and available under the MIT License.
 
 Crafted with passion by Akash Biradar
+    

@@ -1,0 +1,28 @@
+{
+    "name": "Akash Biradar - Full Stack Developer",
+    "short_name": "Akash Portfolio",
+    "description": "Portfolio of Akash Biradar - Full Stack Web Developer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#10b981",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/apple-touch-icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      }
+    ]
+  }
