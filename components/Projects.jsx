@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "motion/react";
 import { useState } from "react";
 import projLab from "../public/images/MlabMockup.png";
 import projAI from "../public/images/jobportalai.png";
-import projPortfolio from "../public/images/akashportfolio.png";
+import projPortfolio from "../public/images/portfolio.png";
 import projEcom from "../public/images/skyCoffe.png";
 import projSkyCoffee from "../public/images/skyCoffe.png";
 import { FaGithub } from "react-icons/fa";
@@ -35,7 +35,7 @@ const projects = [
     title: "Portfolio Website",
     desc: "Built my personal portfolio website to showcase my skills, projects and growth trajectory as a full-stack web developer. Developed with Next.js for performance and SEO, styled with Tailwind CSS, featuring live project links, GitHub integration and modular architecture designed for future expansion into analytics and data-driven apps.",
     devstack: "Next.js, Tailwind CSS",
-    link: "#",
+    link: "https://akash-biradar-dev.vercel.app",
     git: "https://github.com/Akash-Biradar",
     src: projPortfolio,
     type: "FullStack",
