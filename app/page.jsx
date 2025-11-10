@@ -1,4 +1,3 @@
-
 import { About } from '@/components/About'
 import Home from '@/components/Hero'
 import { Project } from '@/components/Projects'
